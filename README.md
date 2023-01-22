@@ -1,6 +1,6 @@
 <p align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=ADFF2F&height=180&section=header&text=Nero's%20Company&fontSize=80&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=ADFF2F&height=180&section=header&text=Nero's%20Company&fontSize=80&animation=blinking)
 
 
 
