@@ -11,11 +11,9 @@
 <b>귀여운 네로입니당</b>
 </p>
 
-<table>
+<table align="center">
 <tr>
-<td align="center"></td>
-
-<td align="center" width="100%">
+<td >
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JindoKim&show_icons=true&theme=highcontrast)
 </td>
