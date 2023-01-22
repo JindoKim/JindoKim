@@ -6,13 +6,16 @@
 <hr>
 
 </p>
-<p align='center'>
+<p align="center">
 <img src='./neroone.png' width = '50%'></img><br>
 <b>귀여운 네로입니당</b>
 </p>
-<center>
 
+<table align="center">
+<tr>
+<td >
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JindoKim&show_icons=true&theme=highcontrast)
-</center>
-
+</td>
+</tr>
+</table>
