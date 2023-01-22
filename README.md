@@ -1,10 +1,13 @@
-
-<table>
-<tr>
-<td width='30%' height = '100%' style="padding-bottom: 12px"> 
-<img src='./nero.jpg' style="border: 0.4em inset #00FF7F; border-radius: 70%; overflow: hidden;">
+<table style = "border: 5px inset skyblue">
+<tr style = "border: 0px">
+<td align= "center">
+<img src='./nero.jpg' style="border: 5px inset #00FF7F; border-radius: 70%; overflow: hidden; width: 50%; ">
 </td>
-<td width='70%' height = '100%'>
+</tr>
+<tr>
+<td  align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JindoKim&show_icons=true&theme=highcontrast)
 </td>
+</tr>
+</table>
