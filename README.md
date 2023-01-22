@@ -1,6 +1,5 @@
-### Hi there 👋
-###
+### 진도의 깃허브에용
+> 코드안에
+>> 코드
 
-**JindoKim/JindoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JindoKim&show_icons=true&theme=highcontrast)
+>>>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JindoKim&show_icons=true&theme=highcontrast)
