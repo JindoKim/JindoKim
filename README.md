@@ -1,5 +1,5 @@
-<table style = "border: 5px inset skyblue">
-<tr style = "border: 0px">
+<table>
+<tr>
 <td align= "center">
 <img src='./neroone.png' width = '50%'></img>
 </td>
