@@ -1,9 +1,9 @@
 <p align='center'>
 
-# NERO's COMPANY</p>
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=ADFF2F&height=180&section=header&text=Nero's%20Company&fontSize=80&animation=blink)
 
-### 네로컴퍼니에 오신걸 환영합니다~
-<hr>
+
+
 
 </p>
 <p align="center">
