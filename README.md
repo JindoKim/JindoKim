@@ -1,8 +1,16 @@
-<p style = 'font-size:170%'>안녕하세요</p>
+<p align='center'>
+
+# NERO's COMPANY</p>
+
+### 네로컴퍼니에 오신걸 환영합니다~
+<hr>
+
+</p>
 <table>
 <tr>
 <td align= "center">
-<img src='./neroone.png' width = '50%'></img>
+<img src='./neroone.png' width = '50%'></img><br>
+<b>귀여운 네로입니당</b>
 </td>
 </tr>
 <tr>
