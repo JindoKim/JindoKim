@@ -7,7 +7,7 @@
 
 </p>
 <p align="center">
-<img src='./neroone.png' width = '50%'></img><br>
+<img src='./nero_cartoon.png' width = '50%'></img><br>
 <b>귀여운 네로입니당</b>
 </p>
 
